@@ -62,6 +62,7 @@ Incident Timeline	Plaso, Timesketch	Log Aggregation & Event Correlation
 *Evidence Preservation*: Utilizing write-blockers and bit-stream imaging to protect original data.
 
 *Cryptographic Validation*: Mandatory use of SHA-256/MD5 hashing at every stage of the lifecycle.
+Author: Ritika Sharma
 
 *Timeline Reconstruction*: Building chronological maps to visualize the "Who, What, When, Where, and How."
 
